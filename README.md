@@ -1,2 +1,5 @@
 # hormonal-fluctuations-mental-health
-My second bioinformatics project entitled, "Hormonal Fluctuations and Mental Health: A Bioinformatics Approach to Understanding Estrogen, Progesterone, and Mood Disorders". This project aims to explore the relationship of hormonal fluctuations and mood disorders using bioinformatics and publicly available data.
+
+## "Hormonal Fluctuations and Mental Health: A Bioinformatics Approach to Understanding Estrogen, Progesterone, and Mood Disorders"
+
+My second bioinformatics project which aims to explore the relationship between hormonal fluctuations and mood disorders using bioinformatics and publicly available data.
